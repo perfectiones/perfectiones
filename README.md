@@ -7,9 +7,9 @@ I'm majoring in Computer Science and Engineering my skills in JavaScript/TypeScr
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-083061?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-556694?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-083061?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-f67b01?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-d77eaa?style=for-the-badge&logo=sass&logoColor=white)
 
