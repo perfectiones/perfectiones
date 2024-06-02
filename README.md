@@ -10,7 +10,7 @@ I'm majoring in Computer Science and Engineering my skills in JavaScript/TypeScr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-7F52FF?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-7F52FF?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
