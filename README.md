@@ -6,7 +6,7 @@ I'm majoring in Computer Science and Engineering my skills in JavaScript/TypeScr
 ## My Technologies 🛠️
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-083061?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-7F52FF?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,7 @@ I'm majoring in Computer Science and Engineering my skills in JavaScript/TypeScr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Some Backend Development
