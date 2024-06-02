@@ -1,18 +1,15 @@
-# Hello, I'm a backend dev. 👋
+# Hello, I'm a frontend dev. 👋
 
 ## About Me 🚀
-I'm majoring in Computer Science and Engineering and actively developing my skills in Java/Golang Backend development. I also have some experience with the Android SDK.
-
-I've completed courses and achieved notable success in the following programs:
-- **VK**: Development of server applications
-- **IT SCHOOL SAMSUNG**: Mobile application development, where I earned a prize in the regional competition stage.
+I'm majoring in Computer Science and Engineering my skills in JavaScript/TypeScript Frontend development. 
 
 ## My Technologies 🛠️
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
