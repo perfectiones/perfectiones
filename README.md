@@ -22,7 +22,7 @@ I'm majoring in Computer Science and Engineering my skills in JavaScript/TypeScr
 ![Vue](https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Some Backend Development
-![Nest](https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=nest&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJs-171a1c?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
